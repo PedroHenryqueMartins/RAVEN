@@ -1,0 +1,27 @@
+{
+  "Services": {
+    "CameraService": {
+    },
+    "RenderService": {
+    },
+    "TerrainService": {
+      "HeightMap": "../../Assets/HeightMaps/heightmap_512x512.raw",
+      "MaxHeight": 18
+    },
+    "GameService": {
+    },
+    "PreloadService": {
+    }
+  },
+  "GameObjects": [
+    {
+      "Name": "MainCamera",
+      "Template": "../../Assets/Templates/fps_camera.json",
+    },
+    {
+      "Name": "ModelTemplate",
+      "Template": "../../Assets/Templates/model_test.json",
+      "Position": [0.0, 0.0, 0.0]
+    }
+  ]
+}

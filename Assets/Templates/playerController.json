@@ -1,0 +1,24 @@
+{
+  "Components": {
+    "ModelComponent": {
+      "FileName": "../../Assets/Models/CharController/charController.model",
+      "Animations": [
+        "../../Assets/Models/CharController/charControllerIdle.animset",
+        "../../Assets/Models/CharController/charController_running.animset",
+        "../../Assets/Models/CharController/charController_crouchIdle.animset",
+        "../../Assets/Models/CharController/charController_crouchWalk.animset"
+      ]
+    },
+    "AnimatorComponent": {},
+    "TransformComponent": {},
+    "ColliderComponent": {
+      "Center": [ 0.0, 1.0, 0.0 ],
+      "Extend": [ 0.3, 1.0, 0.3 ]
+    },
+    "PlayerControllerComponent": {},
+    "SightComponent": {
+      "Center": [ 0.0, 1.0, 0.0 ],
+      "Extend": [ 0.2, 0.3, 0.2 ]
+    }
+  }
+}

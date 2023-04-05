@@ -1,0 +1,21 @@
+{
+  "Components": {
+    "ModelComponent": {
+      "FileName": "../../Assets/Models/CharController/charController.model",
+      "Animations": [
+        "../../Assets/Models/CharController/charControllerIdle.animset",
+        "../../Assets/Models/CharController/charControllerForward.animset"
+      ]
+    },
+    "AnimatorComponent": {},
+    "TransformComponent": {},
+    "ColliderComponent": {
+      "Center": [ 0.0, 1.0, 0.0 ],
+      "Extend": [ 0.5, 1.0, 0.5 ]
+    },
+
+    "TemplateComponent": {
+      "MoveSpeed": 2.0
+    }
+  }
+}

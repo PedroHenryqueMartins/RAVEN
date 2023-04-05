@@ -1,0 +1,11 @@
+{
+  "Components": {
+    "GroundPlaneComponent": {
+      "Size": 200.0
+    },
+    "TransformComponent": {},
+    "ColliderComponent": {
+      "Center": [ 0.0, 0.0, 0.0 ]
+    }
+   }
+  }

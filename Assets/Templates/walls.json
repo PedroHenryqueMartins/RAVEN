@@ -1,0 +1,16 @@
+{
+  "Components": {
+    "ModelComponent": {
+      "FileName": "../../Assets/Models/Wall/wall.model"
+    },
+    "TransformComponent": {},
+    "ColliderComponent": {
+      "Center": [ 0.0, 1.0, 0.0 ],
+      "Extend": [ 1.0, 1.0, 1.0 ]
+    },
+    "SightComponent": {
+      "Center": [ 0.0, 0.3, 0.0 ],
+      "Extend": [ 1.0, 0.1, 1.0 ]
+    }
+  }
+}

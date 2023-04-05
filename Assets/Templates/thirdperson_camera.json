@@ -1,0 +1,12 @@
+{
+  "Components": {
+    "CameraComponent": {
+      "Position": [ 10.0, 1.0, 1.0 ],
+      "LookAt": [ 0.0, 1.0, 0.0 ]
+    },
+    "ThirdPersonCameraControllerComponent": {
+      "MoveSpeed": 20.0,
+      "TurnSpeed": 8.0
+    }
+  }
+}

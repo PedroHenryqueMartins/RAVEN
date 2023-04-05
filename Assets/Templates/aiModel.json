@@ -1,0 +1,26 @@
+{
+  "Components": {
+    "ModelComponent": {
+      "FileName": "../../Assets/Models/MawMonster/mawmonster.model",
+      "Animations": [
+        "../../Assets/Models/MawMonster/mawMonster_idle",
+        "../../Assets/Models/MawMonster/mawMonster_walk",
+        "../../Assets/Models/MawMonster/mawMonster_alert"
+      ]
+    },
+    "AnimatorComponent": {},
+    "TransformComponent": {},
+    "ColliderComponent": {
+      "Center": [ 0.0, 1.0, 0.0 ],
+      "Extend": [ 0.5, 1.0, 0.5 ]
+    },
+
+    "AIComponent": {
+      "MoveSpeed": 2.0
+    },
+    "SightComponent": {
+      "Center": [ 0.0, 1.5, -1.0 ],
+      "Extend": [0.3, 0.2, 2.0]
+    }
+  }
+}
