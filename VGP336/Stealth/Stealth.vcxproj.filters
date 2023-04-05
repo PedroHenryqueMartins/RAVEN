@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="GameState.cpp" />
+    <ClCompile Include="WinMain.cpp" />
+    <ClCompile Include="StealthGameService.cpp" />
+    <ClCompile Include="PreloadService.cpp" />
+    <ClCompile Include="AIComponent.cpp" />
+    <ClCompile Include="PlayerControllerComponent.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GameState.h" />
+    <ClInclude Include="StealthGameService.h" />
+    <ClInclude Include="TypeIds.h" />
+    <ClInclude Include="PreloadService.h" />
+    <ClInclude Include="AIComponent.h" />
+    <ClInclude Include="PlayerControllerComponent.h" />
+  </ItemGroup>
+</Project>
