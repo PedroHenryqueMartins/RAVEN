@@ -1,0 +1,58 @@
+-scale 0.01 ../../Assets/Models/MawMonster/mawmonster.fbx ../../Assets/Models/MawMonster/mawmonster.model
+-scale 0.01 ../../Assets/Models/MawMonster/mawmonster_thriller.fbx ../../Assets/Models/MawMonster/mawmonster_thriller.model
+-scale 0.01 ../../Assets/Models/MawMonster/maw_walking.fbx ../../Assets/Models/MawMonster/maw_walking.model
+-scale 0.01 ../../Assets/Models/Test/Walking.fbx ../../Assets/Models/Test/walking.model
+-scale 0.01 ../../Assets/Models/Test/thriller.fbx ../../Assets/Models/Test/thriller.model
+-scale 0.01 ../../Assets/Models/Doozy/doozy_pose.fbx ../../Assets/Models/Doozy/doozy_pose.model
+-scale 0.01 -animOnly ../../Assets/Models/Doozy/doozy_waving.fbx ../../Assets/Models/Doozy/doozy_waving.model
+-scale 0.01 ../../Assets/Models/Doozy/doozy_thriller.fbx ../../Assets/Models/Doozy/doozy_thriller.model
+-scale 0.01 ../../Assets/Models/Duck/duck.fbx ../../Assets/Models/Duck/duck.model
+-scale 0.50 ../../Assets/Models/HydroPlane/hydro_plane.obj ../../Assets/Models/HydroPlane/HydroPlane.model
+-scale 0.10 ../../Assets/Models/Eevee/eevee.dae ../../Assets/Models/Eevee/eevee.model
+
+
+
+
+//	MawMonster
+-scale 0.01 -animOnly ../../Assets/Models/MawMonster/mawmonster_thriller_idle.fbx ../../Assets/Models/MawMonster/mawmonster_thriller_idle.model
+-scale 0.01 -animOnly ../../Assets/Models/MawMonster/mawmonster_thriller_1.fbx ../../Assets/Models/MawMonster/mawmonster_thriller_1.model
+-scale 0.01 -animOnly ../../Assets/Models/MawMonster/mawmonster_thriller_2.fbx ../../Assets/Models/MawMonster/mawmonster_thriller_2.model
+-scale 0.01 -animOnly ../../Assets/Models/MawMonster/mawmonster_thriller_3.fbx ../../Assets/Models/MawMonster/mawmonster_thriller_3.model
+-scale 0.01 -animOnly ../../Assets/Models/MawMonster/mawmonster_thriller_4.fbx ../../Assets/Models/MawMonster/mawmonster_thriller_4.model
+-scale 0.01 -animOnly ../../Assets/Models/MawMonster/mawmonster_ymca.fbx ../../Assets/Models/MawMonster/mawmonster_ymca.model
+-scale 0.01 -animOnly ../../Assets/Models/MawMonster/mawmonster_gangnamStyle.fbx ../../Assets/Models/MawMonster/mawmonster_gangnamStyle.model
+
+-scale 0.01 -animOnly ../../Assets/Models/MawMonster/mawmonster_idle.fbx ../../Assets/Models/MawMonster/mawmonster_idle.model
+-scale 0.01 -animOnly ../../Assets/Models/MawMonster/mawmonster_walk.fbx ../../Assets/Models/MawMonster/mawmonster_walk.model
+-scale 0.01 -animOnly ../../Assets/Models/MawMonster/mawmonster_alert.fbx ../../Assets/Models/MawMonster/mawmonster_alert.model
+
+//	Hero
+-scale 0.01 ../../Assets/Models/Hero/hero.fbx ../../Assets/Models/hero/hero.model
+-scale 0.01 -animOnly ../../Assets/Models/Hero/hero_idle.fbx ../../Assets/Models/Hero/hero_idle.model 
+-scale 0.01 -animOnly ../../Assets/Models/Hero/hero_walk.fbx ../../Assets/Models/Hero/hero_walk.model 
+-scale 0.01 -animOnly ../../Assets/Models/Hero/hero_jump.fbx ../../Assets/Models/Hero/hero_jump.model 
+-scale 0.01 -animOnly ../../Assets/Models/Hero/hero_kick.fbx ../../Assets/Models/Hero/hero_kick.model 
+-scale 0.01 -animOnly ../../Assets/Models/Hero/hero_punch.fbx ../../Assets/Models/Hero/hero_punch.model 
+
+-scale 0.01 ../../Assets/Models/CharController/charController.fbx ../../Assets/Models/CharController/charController.model
+-scale 0.01 -animOnly ../../Assets/Models/CharController/charControllerIdle.fbx ../../Assets/Models/CharController/charControllerIdle.model
+-scale 0.01 -animOnly ../../Assets/Models/CharController/charControllerForward.fbx ../../Assets/Models/CharController/charControllerForward.model
+-scale 0.01 -animOnly ../../Assets/Models/CharController/charControllerForwardRight.fbx ../../Assets/Models/CharController/charControllerForwardRight.model
+-scale 0.01 -animOnly ../../Assets/Models/CharController/charControllerRight.fbx ../../Assets/Models/CharController/charControllerRight.model
+-scale 0.01 -animOnly ../../Assets/Models/CharController/charControllerBackwardRight.fbx ../../Assets/Models/CharController/charControllerBackwardRight.model
+-scale 0.01 -animOnly ../../Assets/Models/CharController/charControllerBackward.fbx ../../Assets/Models/CharController/charControllerBackward.model
+-scale 0.01 -animOnly ../../Assets/Models/CharController/charControllerBackwardLeft.fbx ../../Assets/Models/CharController/charControllerBackwardLeft.model
+-scale 0.01 -animOnly ../../Assets/Models/CharController/charControllerLeft.fbx ../../Assets/Models/CharController/charControllerLeft.model
+-scale 0.01 -animOnly ../../Assets/Models/CharController/charControllerForwardLeft.fbx ../../Assets/Models/CharController/charControllerForwardLeft.model
+-scale 0.01 -animOnly ../../Assets/Models/CharController/charControllerForwardLeft.fbx ../../Assets/Models/CharController/charControllerForwardLeft.model
+-scale 0.01 -animOnly ../../Assets/Models/CharController/charControllerJump.fbx ../../Assets/Models/CharController/charControllerJump.model
+-scale 0.01 -animOnly ../../Assets/Models/CharController/charControllerHanging.fbx ../../Assets/Models/CharController/charControllerHanging.model
+-scale 0.01 -animOnly ../../Assets/Models/CharController/charControllerLanding.fbx ../../Assets/Models/CharController/charControllerLanding.model
+-scale 0.01 ../../Assets/Models/CharController/Glider.fbx ../../Assets/Models/CharController/Glider.model
+
+-scale 0.01 -animOnly ../../Assets/Models/CharController/charController_running.fbx ../../Assets/Models/CharController/charController_running.model
+-scale 0.01 -animOnly ../../Assets/Models/CharController/charController_crouchIdle.fbx ../../Assets/Models/CharController/charController_crouchIdle.model
+-scale 0.01 -animOnly ../../Assets/Models/CharController/charController_crouchWalk.fbx ../../Assets/Models/CharController/charController_crouchWalk.model
+
+//	Wall
+-scale 0.01 ../../Assets/Models/Wall/wall.fbx ../../Assets/Models/Wall/wall.model
